@@ -1,0 +1,30 @@
+
+.userchoice_continer{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 50px;
+    
+}
+
+.userchoice_continer table{
+    width:100%;
+    text-align: center;
+}
+
+.userchoice_continer table thead{
+    height: 50px;
+    background-color:var(--secondary-color);
+    color:#fff;
+}
+
+.userchoice_continer table thead th{
+    border: 1.5px solid white;
+}
+
+.userchoice_continer table tr td{
+    height: 50px;
+    width: 110px;
+    background-color:#e7d7c1;
+    border: 1px solid #ffffff;
+} 
